@@ -44,7 +44,7 @@ img{
     background-color:rgb(116, 116, 116);
     width:2rem;
     border-radius: 20px;
-    transition:width 4s ease-out;
+    transition:width .2s ease-out;
 }
 .arrowLeft{
     position:absolute;
